@@ -9,6 +9,7 @@ Enter seller year: 2010
 Enter min. product count: 1000
 
 result.txt:
+
 Views: Wyświetlenia: 7
 Created at: 26 stycznia 2024
 Reg. date: 2014
