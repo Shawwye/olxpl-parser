@@ -1,5 +1,5 @@
 **Installing**
-1. Opoen terminal and write this commands:
+1. Open terminal and write this commands:
  - pip install pytest-playwright
  - playwright install
 2. Run main.py
